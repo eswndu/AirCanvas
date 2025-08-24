@@ -1,0 +1,28 @@
+Here’s a tight plan to take AirCanvas from concept → demo → delightful.
+
+AirCanvas — Milestones
+
+1) System sketch (single-camera pipeline)
+2) MVP scope (first build)
+3) Gesture design (robust & debounced)
+4) Brush engine (feels good to draw)
+5) Shape Snap (optional, delightful)
+6) UI/UX interactions
+7) Recording & export
+8) Performance checklist
+9) Face-triggered UI (fun extra)
+10) Game & Kids modes (stretch)
+11) Risks & mitigations
+12) Test plan (quick & real)
+
+Feature roadmap (no dates, just order)
+
+1. Webcam + MediaPipe + draw with index (paused toggle via palm).
+2. Add V / three-fingers cycling + HUD.
+3. Clear (circle) + save (thumbs-up).
+4. Undo/redo (swipes) + stroke stacks.
+5. Brush styles + highlighter.
+6. Radial palette + pinch select.
+7. Timelapse recorder + MP4 export. (do we need at this point of time!!??)
+8. Shape snap + face-triggered UI.
+9. Kids & Game modes.
